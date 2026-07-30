@@ -1,5 +1,0 @@
-requests
-python-dotenv
-pyautogui
-pillow
-customtkinter
